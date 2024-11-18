@@ -1,7 +1,7 @@
 import static org.junit.Assert.*;
 import org.junit.Test;
 
-public class ShapeClassifierTest {
+public class mingTest {
 
     @Test
     public void testEvaluateGuess_Circle_Small_PerimeterJustBelow10() {

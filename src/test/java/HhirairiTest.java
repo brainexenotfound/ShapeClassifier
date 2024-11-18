@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.DisplayName;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class ShapeClassifierTest {
+public class HhirairiTest {
 
     @DisplayName("All correct guesses for Equilateral triangle")
     @Test
